@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/pierpaolo-di-dato-b5a7a7a9">
+<a href="https://www.linkedin.com/in/pierpaolo-di-dato-b5a7a7a9"  target="_blank">
   <img align="left" alt="Pierpaolo Di Dato's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -33,14 +33,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JSX          9 hrs 3 mins    ████████████████████████▓   99.19 % 
+Java          9 hrs 3 mins    ████████████████████████▓   99.19 % 
 JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/pierpaolodidato" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 my github stats
 
