@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/pierpaolo-di-dato-b5a7a7a9"  target="_blank">
   <img align="left" alt="Pierpaolo Di Dato's LinkedIN" width="22px" src="linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/piripizzozzo.maestroyehudi"  target="_blank">
-  <img align="left" alt="Pierpaolo Di Dato's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+<a href="https://www.youtube.com/@pierpaolodidato4358"  target="_blank">
+  <img align="left" alt="Pierpaolo Di Dato's Youtube" width="22px" src="youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pierpaolo1989)
