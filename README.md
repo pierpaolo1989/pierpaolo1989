@@ -13,10 +13,6 @@
 Hi, I'm [Pierpaolo Di Dato](http://pierpaolodidato.it/), a passionate full stack web developer and a freelance software engineer from Naples, big sea city in the south of Italy. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-<div>
-  <img align="right" alt="GIF" src="code.gif" width="400" height="320" />
-</div>
   
 - 💼 any freelance work? do reach, [email](mailto:pierpaolo.pdd@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -43,7 +39,7 @@ JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 my github stats
 
