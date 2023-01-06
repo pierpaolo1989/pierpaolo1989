@@ -31,10 +31,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-```text
-Java          9 hrs 3 mins    ████████████████████████▓   99.19 % 
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
+<a href="https://wakatime.com/@pierpaolo1989" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pierpaolo1989&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -44,6 +41,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pierpaolo1989&show_icons=true&theme=gotham" alt="pierpaolodidato" />
+
 
 
 
