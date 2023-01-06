@@ -1,9 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/pierpaolo-di-dato-b5a7a7a9"  target="_blank">
-  <img align="left" alt="Pierpaolo Di Dato's LinkedIN" width="22px" src="linkedin.svg" />
+  <img align="left" alt="Pierpaolo Di Dato's LinkedIN" width="22px" src="images/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/@pierpaolodidato4358"  target="_blank">
-  <img align="left" alt="Pierpaolo Di Dato's Youtube" width="22px" src="youtube.svg" />
+  <img align="left" alt="Pierpaolo Di Dato's Youtube" width="22px" src="images/youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pierpaolo1989)
@@ -39,7 +39,7 @@ JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="images/coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 my github stats
 
