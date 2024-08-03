@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://wakatime.com/@pierpaolo1989" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pierpaolo1989" alt="Wakatime weekly coding actitvity languages" /></a>
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="images/coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
 
