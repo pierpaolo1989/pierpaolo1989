@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="images/git.png"></code>
 <code><img height="20" src ="images/heroku.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com/@pierpaolo1989" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pierpaolo1989" alt="Wakatime weekly coding actitvity languages" /></a>
 <!--END_SECTION:waka-->
