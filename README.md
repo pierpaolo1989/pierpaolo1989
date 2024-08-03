@@ -32,7 +32,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com/@pierpaolo1989" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=pierpaolo1989" alt="Wakatime weekly coding actitvity languages" /></a>
+<figure><embed src="https://wakatime.com/share/@pierpaolo1989/a9fece7d-84cd-4e74-99b6-534bb85a1caf.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
