@@ -30,11 +30,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="images/git.png"></code>
 <code><img height="20" src ="images/heroku.png"></code>
 
-📊 **This week i spent my time on:**
-<!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pierpaolo1989/ddb75574-0c54-454a-9c7f-b79537eddd5c.png" /></a>
-<!--END_SECTION:waka-->
-
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/EwdZcpDlg" target="_blank"><img src="images/coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
@@ -43,6 +38,11 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=pierpaolo1989&show_icons=true&theme=gotham" alt="pierpaolodidato" />
 </p>
+
+📊 **This week i spent my time on:**
+<!--START_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@pierpaolo1989/ddb75574-0c54-454a-9c7f-b79537eddd5c.png" /></a>
+<!--END_SECTION:waka-->
 
 
 
